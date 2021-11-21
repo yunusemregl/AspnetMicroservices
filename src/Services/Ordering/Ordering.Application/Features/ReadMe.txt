@@ -1,0 +1,1 @@
+﻿ - This folder will apply CQRS design pattern for handling Business use cases.
